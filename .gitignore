@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,maven,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,maven,java
 
+# application.yaml
 application.yaml
 
 ### Eclipse ###
